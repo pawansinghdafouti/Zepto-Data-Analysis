@@ -3,11 +3,6 @@
 This is a complete real-world SQL Data Analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/?utm_source=chatgpt.com) — one of India’s fastest-growing quick-commerce startups.
 The project demonstrates practical SQL workflows used by data analysts, including database setup, data cleaning, exploratory data analysis (EDA), and business insight generation.
 
-This project is ideal for:
-
-* 📊 Data Analyst aspirants building portfolio projects for interviews and LinkedIn
-* 📚 Beginners learning SQL through hands-on practice
-* 💼 Students preparing for retail, e-commerce, or analytics interviews
 
 # 📌 Project Overview
 
