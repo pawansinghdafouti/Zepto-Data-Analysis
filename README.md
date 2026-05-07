@@ -376,16 +376,6 @@ Run all SQL queries step-by-step to perform EDA, cleaning, and analysis.
 
 ---
 
-# 👨‍💻 About the Project
-
-This project demonstrates practical SQL skills required in real-world Data Analyst roles.
-It can be added directly to your:
-
-* Resume
-* LinkedIn Projects
-* GitHub Portfolio
-
-It is especially useful for freshers preparing for:
 
 * Data Analyst roles
 * Business Analyst interviews
